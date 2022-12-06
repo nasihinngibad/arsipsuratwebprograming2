@@ -22,7 +22,8 @@
                             if(!empty($data['alamat'])){
                                 echo '<p class="almt">'.$data['alamat'].'</p>';
                             } else {
-                                echo '<p class="almt">Jalan Raya Kediri Gg. Kwagean No. 04 Loceret Telp/Fax. (0358) 329806 Nganjuk 64471</p>';
+                                echo '<p class="almt">	
+                                Komplek Perkantoran PGN Gedung B Lantai 6 - 8 Jl. KH Zainul Arifin No.20 Jakarta Barat 11140 Indonesia Telp/Fax. +6221 633 1180</p>';
                             }
                             echo '
                         </div>
