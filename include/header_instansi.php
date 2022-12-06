@@ -16,7 +16,7 @@
                             if(!empty($data['nama'])){
                                 echo '<h5 class="ins">'.$data['nama'].'</h5>';
                             } else {
-                                echo '<h5 class="ins">SMK AL - Husna Loceret Nganjuk</h5>';
+                                echo '<h5 class="ins">PT. PERMATA GRAHA NUSANTARA (PGNMAS)</h5>';
                             }
 
                             if(!empty($data['alamat'])){
