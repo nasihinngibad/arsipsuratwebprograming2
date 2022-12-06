@@ -132,7 +132,7 @@
 
         <!-- Menu on large screen START -->
         <ul class="center hide-on-med-and-down" id="nv">
-            <li><a href="./" class="ams hide-on-med-and-down"><i class="material-icons md-36">school</i> AMS</a></li>
+            <li><a href="./" class="ams hide-on-med-and-down"><i class="material-icons md-36">book</i> ARSIP SURAT</a></li>
             <li><div class="grs"></></li>
             <li><a href="./"><i class="material-icons"></i>&nbsp; Beranda</a></li>
             <?php
