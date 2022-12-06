@@ -1,4 +1,5 @@
-# Aplikasi sederhana manajemen surat dengan PHP MySQLi
+# Project aplikasi ARSIP SURAT ini ditujukan untuk memenuhi nilai UAS pada semester 3 prodi Sistem Informasi di UBSI Purwokerto
+
 
 Aplikasi ini untuk mengelola pencatatan surat masuk dan surat keluar (disposisi). Dilengkapi beberapa fitur, antara lain :
 
@@ -16,8 +17,4 @@ Sebelum menggunakan aplikasi ini silakan atur konfigurasi database terlebih dahu
 
 Untuk tampilan terbaik, gunakan browser Google Chrome versi terbaru.
 
-Inspired by Nur Akhwam.
-
----
-
-Informasi lengkap seputar `username` dan `password` untuk login bisa dilihat di https://masrud.com/aplikasi-manajemen-surat/
+Inspired by Nur Akhwam
