@@ -9,7 +9,7 @@
 
 <head>
 
-    <title>Aplikasi Manajemen Surat</title>
+    <title>Aplikasi Pengarsipan Surat</title>
 
     <!-- Meta START -->
     <meta charset="utf-8" />
