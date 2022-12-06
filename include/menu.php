@@ -5,7 +5,7 @@
 
 <nav class="blue-grey darken-1">
     <div class="nav-wrapper">
-        <a href="./" class="brand-logo center hide-on-large-only"><i class="material-icons md-36">school</i> AMS</a>
+        <a href="./" class="brand-logo center hide-on-large-only"><i class="material-icons md-36">school</i> PENGARSIPAN SURAT</a>
         <ul id="slide-out" class="side-nav" data-simplebar-direction="vertical">
             <li class="no-padding">
                 <div class="logo-side center blue-grey darken-3">
