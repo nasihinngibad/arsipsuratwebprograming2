@@ -80,7 +80,11 @@
             <li class="no-padding">
                 <ul class="collapsible collapsible-accordion">
                     <li>
+<<<<<<< HEAD
+                        <a class="collapsible-header"><i class="material-icons">book</i> Arsip</a>
+=======
                         <a class="collapsible-header"><i class="material-icons">image</i> Arsip</a>
+>>>>>>> ceb06ae154189cd9660fb50958782e55081aae92
                         <div class="collapsible-body">
                             <ul>
                                 <li><a href="?page=gsm">Surat Masuk</a></li>
