@@ -90,7 +90,7 @@
                     </li>
                 </ul>
             </li>
-            <li><a href="?page=ref"><i class="material-icons middle">class</i> Referensi</a></li>
+            <li><a href="?page=ref"><i class="material-icons middle">class</i> Rujukan</a></li>
             <li class="no-padding">
             <?php
                 if($_SESSION['admin'] == 1){ ?>
