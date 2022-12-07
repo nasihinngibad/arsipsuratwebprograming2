@@ -18,10 +18,8 @@ Name        : Aplikasi Sederhana Manajemen Surat Menyurat
 Version     : v1.0.1
 Description : Aplikasi untuk mencatat data surat masuk dan keluar secara digital.
 Date        : 2016
-Developer   : M. Rudianto
-Phone/WA    : 0852-3290-4156
-Email       : rudi@masrud.com
-Website     : https://masrud.com
+Developer   : Kelompok 1
+
 
 -->
 <!doctype html>
