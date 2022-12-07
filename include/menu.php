@@ -51,7 +51,7 @@
                     if($_SESSION['admin'] == 1 || $_SESSION['admin'] == 3){ ?>
                 <ul class="collapsible collapsible-accordion">
                     <li>
-                        <a class="collapsible-header"><i class="material-icons">repeat</i> Transaksi Surat</a>
+                        <a class="collapsible-header"><i class="material-icons">repeat</i> Memnbuat Surat</a>
                         <div class="collapsible-body">
                             <ul>
                                 <li><a href="?page=tsm">Surat Masuk</a></li>
@@ -80,7 +80,7 @@
             <li class="no-padding">
                 <ul class="collapsible collapsible-accordion">
                     <li>
-                        <a class="collapsible-header"><i class="material-icons">image</i> Galeri File</a>
+                        <a class="collapsible-header"><i class="material-icons">book</i> Arsip</a>
                         <div class="collapsible-body">
                             <ul>
                                 <li><a href="?page=gsm">Surat Masuk</a></li>
@@ -90,7 +90,7 @@
                     </li>
                 </ul>
             </li>
-            <li><a href="?page=ref"><i class="material-icons middle">class</i> Referensi</a></li>
+            <li><a href="?page=ref"><i class="material-icons middle">class</i> Rujukan</a></li>
             <li class="no-padding">
             <?php
                 if($_SESSION['admin'] == 1){ ?>
