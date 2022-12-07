@@ -51,7 +51,7 @@
                     if($_SESSION['admin'] == 1 || $_SESSION['admin'] == 3){ ?>
                 <ul class="collapsible collapsible-accordion">
                     <li>
-                        <a class="collapsible-header"><i class="material-icons">repeat</i> Transaksi Surat</a>
+                        <a class="collapsible-header"><i class="material-icons">repeat</i> Memnbuat Surat</a>
                         <div class="collapsible-body">
                             <ul>
                                 <li><a href="?page=tsm">Surat Masuk</a></li>
