@@ -67,7 +67,7 @@
             <li class="no-padding">
                 <ul class="collapsible collapsible-accordion">
                     <li>
-                        <a class="collapsible-header"><i class="material-icons">assignment</i> Buku Agenda</a>
+                        <a class="collapsible-header"><i class="material-icons">assignment</i> Arsip</a>
                         <div class="collapsible-body">
                             <ul>
                                 <li><a href="?page=asm">Surat Masuk</a></li>
