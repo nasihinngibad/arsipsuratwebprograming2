@@ -171,7 +171,7 @@
             ?>
             <?php
                 if($_SESSION['admin'] == 2){ ?>
-            <li><a class="dropdown-button" href="#!" data-activates="pengaturan">Pengaturan <i class="material-icons md-18">arrow_drop_down</i></a></li>
+            <li><a class="dropdown-button" href="#!" data-activates="pengaturan">Pengaturan<i class="material-icons md-18">arrow_drop_down</i></a></li>
                 <ul id='pengaturan' class='dropdown-content'>
                     <li><a href="?page=sett">Instansi</a></li>
                     <li><a href="?page=sett&sub=usr">User</a></li>
