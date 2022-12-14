@@ -51,7 +51,7 @@
                     if($_SESSION['admin'] == 1 || $_SESSION['admin'] == 3){ ?>
                 <ul class="collapsible collapsible-accordion">
                     <li>
-                        <a class="collapsible-header"><i class="material-icons">repeat</i> Memnbuat Surat</a>
+                        <a class="collapsible-header"><i class="material-icons">repeat</i> Membuat Surat</a>
                         <div class="collapsible-body">
                             <ul>
                                 <li><a href="?page=tsm">Surat Masuk</a></li>
@@ -90,7 +90,7 @@
                     </li>
                 </ul>
             </li>
-            <li><a href="?page=ref"><i class="material-icons middle">class</i> Rujukan</a></li>
+            <li><a href="?page=ref"><i class="material-icons middle">class</i>Rujukan</a></li>
             <li class="no-padding">
             <?php
                 if($_SESSION['admin'] == 1){ ?>
@@ -137,7 +137,7 @@
             <li><a href="./"><i class="material-icons"></i>&nbsp; Beranda</a></li>
             <?php
                 if($_SESSION['admin'] == 1 || $_SESSION['admin'] == 3){ ?>
-            <li><a class="dropdown-button" href="#!" data-activates="transaksi">Transaksi Surat <i class="material-icons md-18">arrow_drop_down</i></a></li>
+            <li><a class="dropdown-button" href="#!" data-activates="transaksi">Membuat Surat<i class="material-icons md-18">arrow_drop_down</i></a></li>
                 <ul id='transaksi' class='dropdown-content'>
                     <li><a href="?page=tsm">Surat Masuk</a></li>
                     <li><a href="?page=tsk">Surat Keluar</a></li>
@@ -145,12 +145,12 @@
             <?php
                 }
             ?>
-            <li><a class="dropdown-button" href="#!" data-activates="agenda">Buku Agenda <i class="material-icons md-18">arrow_drop_down</i></a></li>
+            <li><a class="dropdown-button" href="#!" data-activates="agenda">Buku Agenda Surat<i class="material-icons md-18">arrow_drop_down</i></a></li>
                 <ul id='agenda' class='dropdown-content'>
                     <li><a href="?page=asm">Surat Masuk</a></li>
                     <li><a href="?page=ask">Surat Keluar</a></li>
                 </ul>
-            <li><a class="dropdown-button" href="#!" data-activates="agenda">Galeri File <i class="material-icons md-18">arrow_drop_down</i></a></li>
+            <li><a class="dropdown-button" href="#!" data-activates="agenda">Arsip Surat<i class="material-icons md-18">arrow_drop_down</i></a></li>
                 <ul id='agenda' class='dropdown-content'>
                     <li><a href="?page=gsm">Surat Masuk</a></li>
                     <li><a href="?page=gsk">Surat Keluar</a></li>
@@ -158,7 +158,7 @@
             <li><a href="?page=ref">Referensi</a></li>
             <?php
                 if($_SESSION['admin'] == 1){ ?>
-            <li><a class="dropdown-button" href="#!" data-activates="pengaturan">Pengaturan <i class="material-icons md-18">arrow_drop_down</i></a></li>
+            <li><a class="dropdown-button" href="#!" data-activates="pengaturan">Pengaturan<i class="material-icons md-18">arrow_drop_down</i></a></li>
                 <ul id='pengaturan' class='dropdown-content'>
                     <li><a href="?page=sett">Instansi</a></li>
                     <li><a href="?page=sett&sub=usr">User</a></li>
